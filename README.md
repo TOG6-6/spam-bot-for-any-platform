@@ -1,4 +1,6 @@
 # spam-bot-for-any-platform
+**DISCORD LINK CUZ WE ARE MADD EPIC XD: https://discord.gg/jsunuB9 **
+
 Any Platform, works, but majorly a concept
 
 How to use it, just install the necessary requirements with pip, eh you'll figure it out!
